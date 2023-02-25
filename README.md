@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> Pay Simulator </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido durante curso da rocketseat para prática em tecnologias WEB.
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+Componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 ## 🔖 Layout
 
@@ -45,4 +45,16 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+### 🎲 Feito por
+
+---
+
+<a href="https://github.com/juniorhbs">
+ <img src="https://avatars.githubusercontent.com/u/60306643?s" width="100px;"/>
+ <br />
+ <p>
+ <sub><b>Junior Oliveira</b></sub></a> <a href="https://github.com/juniorhbs" >💻</a>
+</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Junior-blue?style=rounded&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-oliveira-025895169/)](https://www.linkedin.com/in/junior-oliveira-025895169/)
+[![Gmail Badge](https://img.shields.io/badge/-juniorhbs@gmail.com-c14438?style=rounded&logo=Gmail&logoColor=white&link=mailto:juniorhbs@gmail.com)](mailto:juniorhbs@gmail.com)
